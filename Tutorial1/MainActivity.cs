@@ -44,6 +44,9 @@ namespace Tutorial1
             Button deleteButton = FindViewById<Button>(Resource.Id.btnDelete);
             deleteButton.Click += deleteButton_Click;
 
+            Button crudButton = FindViewById<Button>(Resource.Id.btnCrud);
+            crudButton.Click += crudButton_Click;
+
         }
 
 
@@ -132,6 +135,11 @@ namespace Tutorial1
                 Toast.MakeText(this, msg, ToastLength.Short);
             }
 
+        }
+
+        void crudButton_Click(object sender, EventArgs e)
+        {
+            StartActivity(typeof(SinglePageCrudActivity));
         }
     }
 }

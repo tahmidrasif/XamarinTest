@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
 using Android.Content;
 using SQLite;
 
@@ -70,9 +72,10 @@ namespace Tutorial1.ORM
             string output = "";
             TableQuery<TodoTask> table = db.Table<TodoTask>();
 
+          //  return table.ToList();
             foreach (var todoTask in table)
             {
-                output+="\n"+todoTask.Id + "------" + todoTask.Task;
+                output += "\n" + todoTask.Id + "------" + todoTask.Task;
             }
 
             return output;

@@ -9,6 +9,7 @@
     <activity android:icon="@drawable/icon" android:label="Tutorial1" android:name="md5fc995a55d9be10b37c7232c76faf7f03.MainActivity" />
     <activity android:label="RemoveActivity" android:name="md5fc995a55d9be10b37c7232c76faf7f03.RemoveActivity" />
     <activity android:label="SearchActivity" android:name="md5fc995a55d9be10b37c7232c76faf7f03.SearchActivity" />
+    <activity android:label="SinglePageCrudActivity" android:name="md5fc995a55d9be10b37c7232c76faf7f03.SinglePageCrudActivity" />
     <activity android:label="UpdateActivity" android:name="md5fc995a55d9be10b37c7232c76faf7f03.UpdateActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Tutorial1.Tutorial1.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->

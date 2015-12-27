@@ -1,3 +1,11 @@
+Tutorial1.CustomTaskAdepter, Tutorial1;md5fc995a55d9be10b37c7232c76faf7f03.CustomTaskAdepter
+Tutorial1.CustomTaskAdepter, Tutorial1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc995a55d9be10b37c7232c76faf7f03.CustomTaskAdepter
+Tutorial1.CustomTaskAdepter;md5fc995a55d9be10b37c7232c76faf7f03.CustomTaskAdepter
+tutorial1.CustomTaskAdepter;md5fc995a55d9be10b37c7232c76faf7f03.CustomTaskAdepter
+Tutorial1.DialogForm, Tutorial1;md5fc995a55d9be10b37c7232c76faf7f03.DialogForm
+Tutorial1.DialogForm, Tutorial1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc995a55d9be10b37c7232c76faf7f03.DialogForm
+Tutorial1.DialogForm;md5fc995a55d9be10b37c7232c76faf7f03.DialogForm
+tutorial1.DialogForm;md5fc995a55d9be10b37c7232c76faf7f03.DialogForm
 Tutorial1.InsertTaskActivity, Tutorial1;md5fc995a55d9be10b37c7232c76faf7f03.InsertTaskActivity
 Tutorial1.InsertTaskActivity, Tutorial1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc995a55d9be10b37c7232c76faf7f03.InsertTaskActivity
 Tutorial1.InsertTaskActivity;md5fc995a55d9be10b37c7232c76faf7f03.InsertTaskActivity
@@ -14,6 +22,10 @@ Tutorial1.SearchActivity, Tutorial1;md5fc995a55d9be10b37c7232c76faf7f03.SearchAc
 Tutorial1.SearchActivity, Tutorial1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc995a55d9be10b37c7232c76faf7f03.SearchActivity
 Tutorial1.SearchActivity;md5fc995a55d9be10b37c7232c76faf7f03.SearchActivity
 tutorial1.SearchActivity;md5fc995a55d9be10b37c7232c76faf7f03.SearchActivity
+Tutorial1.SinglePageCrudActivity, Tutorial1;md5fc995a55d9be10b37c7232c76faf7f03.SinglePageCrudActivity
+Tutorial1.SinglePageCrudActivity, Tutorial1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc995a55d9be10b37c7232c76faf7f03.SinglePageCrudActivity
+Tutorial1.SinglePageCrudActivity;md5fc995a55d9be10b37c7232c76faf7f03.SinglePageCrudActivity
+tutorial1.SinglePageCrudActivity;md5fc995a55d9be10b37c7232c76faf7f03.SinglePageCrudActivity
 Tutorial1.UpdateActivity, Tutorial1;md5fc995a55d9be10b37c7232c76faf7f03.UpdateActivity
 Tutorial1.UpdateActivity, Tutorial1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc995a55d9be10b37c7232c76faf7f03.UpdateActivity
 Tutorial1.UpdateActivity;md5fc995a55d9be10b37c7232c76faf7f03.UpdateActivity

@@ -21,5 +21,7 @@ D:\Xamarin\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csprojResolveAssemblyReferenc
 D:\Xamarin\Tutorial1\Tutorial1\obj\Debug\res\layout\searchresult.xml
 D:\Xamarin\Tutorial1\Tutorial1\obj\Debug\res\layout\updatetask.xml
 D:\Xamarin\Tutorial1\Tutorial1\obj\Debug\res\layout\removetask.xml
+D:\Xamarin\Tutorial1\Tutorial1\obj\Debug\res\layout\crudlayout.xml
+D:\Xamarin\Tutorial1\Tutorial1\obj\Debug\res\layout\crudformlayout.xml
 D:\Xamarin\Tutorial1\Tutorial1\obj\Debug\Tutorial1.dll.mdb
 D:\Xamarin\Tutorial1\Tutorial1\bin\Debug\Tutorial1.dll.mdb

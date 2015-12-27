@@ -38,4 +38,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnDelete" />
+    <Button
+        android:text="Crud Single Page"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCrud" />
 </LinearLayout>
