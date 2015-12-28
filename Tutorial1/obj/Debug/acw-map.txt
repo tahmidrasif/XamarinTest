@@ -14,6 +14,10 @@ Tutorial1.MainActivity, Tutorial1;md5fc995a55d9be10b37c7232c76faf7f03.MainActivi
 Tutorial1.MainActivity, Tutorial1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc995a55d9be10b37c7232c76faf7f03.MainActivity
 Tutorial1.MainActivity;md5fc995a55d9be10b37c7232c76faf7f03.MainActivity
 tutorial1.MainActivity;md5fc995a55d9be10b37c7232c76faf7f03.MainActivity
+Tutorial1.MyCoustomClassAdeper, Tutorial1;md5fc995a55d9be10b37c7232c76faf7f03.MyCoustomClassAdeper
+Tutorial1.MyCoustomClassAdeper, Tutorial1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc995a55d9be10b37c7232c76faf7f03.MyCoustomClassAdeper
+Tutorial1.MyCoustomClassAdeper;md5fc995a55d9be10b37c7232c76faf7f03.MyCoustomClassAdeper
+tutorial1.MyCoustomClassAdeper;md5fc995a55d9be10b37c7232c76faf7f03.MyCoustomClassAdeper
 Tutorial1.RemoveActivity, Tutorial1;md5fc995a55d9be10b37c7232c76faf7f03.RemoveActivity
 Tutorial1.RemoveActivity, Tutorial1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc995a55d9be10b37c7232c76faf7f03.RemoveActivity
 Tutorial1.RemoveActivity;md5fc995a55d9be10b37c7232c76faf7f03.RemoveActivity

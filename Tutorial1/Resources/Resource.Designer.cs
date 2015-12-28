@@ -63,8 +63,8 @@ namespace Tutorial1
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f06000f
-			public const int MyButton = 2131099663;
+			// aapt resource value: 0x7f060012
+			public const int MyButton = 2131099666;
 			
 			// aapt resource value: 0x7f060005
 			public const int btnCreateDb = 2131099653;
@@ -87,20 +87,20 @@ namespace Tutorial1
 			// aapt resource value: 0x7f060007
 			public const int btnInsert = 2131099655;
 			
-			// aapt resource value: 0x7f060013
-			public const int btnRemoveSearch = 2131099667;
+			// aapt resource value: 0x7f060016
+			public const int btnRemoveSearch = 2131099670;
 			
-			// aapt resource value: 0x7f060015
-			public const int btnRemoveTask = 2131099669;
+			// aapt resource value: 0x7f060018
+			public const int btnRemoveTask = 2131099672;
 			
 			// aapt resource value: 0x7f06000e
 			public const int btnSave = 2131099662;
 			
-			// aapt resource value: 0x7f060017
-			public const int btnSearch = 2131099671;
+			// aapt resource value: 0x7f06001a
+			public const int btnSearch = 2131099674;
 			
-			// aapt resource value: 0x7f060019
-			public const int btnSearchById = 2131099673;
+			// aapt resource value: 0x7f06001c
+			public const int btnSearchById = 2131099676;
 			
 			// aapt resource value: 0x7f060008
 			public const int btnSelectAll = 2131099656;
@@ -111,35 +111,44 @@ namespace Tutorial1
 			// aapt resource value: 0x7f06000a
 			public const int btnUpdate = 2131099658;
 			
-			// aapt resource value: 0x7f06001a
-			public const int btnUpdateById = 2131099674;
+			// aapt resource value: 0x7f06001d
+			public const int btnUpdateById = 2131099677;
 			
 			// aapt resource value: 0x7f060004
 			public const int lstCrud = 2131099652;
 			
+			// aapt resource value: 0x7f06000f
+			public const int myTestListview = 2131099663;
+			
+			// aapt resource value: 0x7f060010
+			public const int myTestTextView1 = 2131099664;
+			
+			// aapt resource value: 0x7f060011
+			public const int myTestTextView2 = 2131099665;
+			
 			// aapt resource value: 0x7f060000
 			public const int textView1 = 2131099648;
 			
-			// aapt resource value: 0x7f060010
-			public const int textView2 = 2131099664;
+			// aapt resource value: 0x7f060013
+			public const int textView2 = 2131099667;
 			
-			// aapt resource value: 0x7f060012
-			public const int textView3 = 2131099666;
+			// aapt resource value: 0x7f060015
+			public const int textView3 = 2131099669;
 			
 			// aapt resource value: 0x7f060001
 			public const int txtCrudTask = 2131099649;
 			
-			// aapt resource value: 0x7f060018
-			public const int txtId = 2131099672;
-			
-			// aapt resource value: 0x7f060011
-			public const int txtRemoveId = 2131099665;
+			// aapt resource value: 0x7f06001b
+			public const int txtId = 2131099675;
 			
 			// aapt resource value: 0x7f060014
-			public const int txtRemoveTask = 2131099668;
+			public const int txtRemoveId = 2131099668;
 			
-			// aapt resource value: 0x7f060016
-			public const int txtSearch = 2131099670;
+			// aapt resource value: 0x7f060017
+			public const int txtRemoveTask = 2131099671;
+			
+			// aapt resource value: 0x7f060019
+			public const int txtSearch = 2131099673;
 			
 			// aapt resource value: 0x7f06000d
 			public const int txtTask = 2131099661;
@@ -170,16 +179,22 @@ namespace Tutorial1
 			public const int InserTask = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int Main = 2130903044;
+			public const int listviewLayout = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int RemoveTask = 2130903045;
+			public const int listViewTemplate1 = 2130903045;
 			
 			// aapt resource value: 0x7f030006
-			public const int SearchResult = 2130903046;
+			public const int Main = 2130903046;
 			
 			// aapt resource value: 0x7f030007
-			public const int UpdateTask = 2130903047;
+			public const int RemoveTask = 2130903047;
+			
+			// aapt resource value: 0x7f030008
+			public const int SearchResult = 2130903048;
+			
+			// aapt resource value: 0x7f030009
+			public const int UpdateTask = 2130903049;
 			
 			static Layout()
 			{

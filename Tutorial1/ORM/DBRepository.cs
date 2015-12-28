@@ -64,7 +64,7 @@ namespace Tutorial1.ORM
             }
         }
 
-        public string GetAll()
+        public List<TodoTask> GetAll()
         {
             string dbPath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Personal),
                    "oredemo.db3");
@@ -78,7 +78,7 @@ namespace Tutorial1.ORM
                 output += "\n" + todoTask.Id + "------" + todoTask.Task;
             }
 
-            return output;
+            return table.ToList();
         }
 
         public string GetById(int id)

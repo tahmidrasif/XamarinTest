@@ -92,7 +92,7 @@ namespace Tutorial1
         {
             DBRepository db=new DBRepository();
             var output=db.GetAll();
-            Toast.MakeText(this,output,ToastLength.Short).Show();
+           // Toast.MakeText(this,output,ToastLength.Short).Show();
 
         }
 

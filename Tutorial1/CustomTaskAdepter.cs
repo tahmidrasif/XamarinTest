@@ -30,7 +30,15 @@ namespace Tutorial1
 
         public override View GetView(int position, View convertView, ViewGroup parent)
         {
-            throw new NotImplementedException();
+            var item = items[position];
+            View view = convertView;
+            if (view == null)
+            {
+                view = context.LayoutInflater.Inflate(Resource.Layout.listViewTemplate1, null);
+            }
+            view.FindViewById<TextView>(Resource.Id.myTestTextView1).Text = string.Format("{0}", item.Id);
+            view.FindViewById<TextView>(Resource.Id.myTestTextView2).Text = string.Format("{0}", item.Task);
+            return view;
         }
 
         public override int Count
